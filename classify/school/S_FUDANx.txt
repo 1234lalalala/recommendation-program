@@ -1,0 +1,7 @@
+C_course-v1:FudanX+SOSC120007+sp	货币金融学（自主模式）
+C_course-v1:FUDANx+ECON1300812+sp	金融工程(自主模式)
+C_course-v1:FUDANx+ECON130088+2019_T1	互联网金融（2019春）
+C_course-v1:FUDANx+ECON13000701+2019_T1	经济学（2019春）
+C_course-v1:FUDANx+ECON1300812+2019_T1	金融工程（2019春）
+C_course-v1:FUDANx+ECON130080+2019_T1	投资银行学（2019春）
+C_course-v1:FUDANx+SOSC120007+2019_T1	货币金融学（2019春）

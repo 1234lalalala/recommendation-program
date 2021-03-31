@@ -1,0 +1,2 @@
+C_course-v1:RiceX+BIOC372_1x+sp	免疫学基础——第Ⅰ部分（自主模式）
+C_course-v1:RiceX+BIOC372_2x+sp	免疫学基础——第Ⅱ部分(自主模式）

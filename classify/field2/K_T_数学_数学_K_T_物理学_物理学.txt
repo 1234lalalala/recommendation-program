@@ -1,0 +1,21 @@
+C_course-v1:TsinghuaX+20430064X+sp	量子力学（上）(自主模式)
+C_course-v1:TsinghuaX+AP201601X+2019_T1	大学物理（先修课）-电磁学（2019春）
+C_course-v1:TsinghuaX+20430054X_1+sp	电动力学（下）（自主模式）
+C_course-v1:BIT+PHY1701702+sp	大学物理——电磁学（自主模式）
+C_course-v1:TsinghuaX+80140242+sp	介质辐射传热（自主模式）
+C_course-v1:JNU+07009188+2018_T2	力学与现代生活——开启科学人生
+C_course-v1:TsinghuaX+THU201607+2019_T1	高等化工热力学（上）（2019春）
+C_course-v1:TsinghuaX+70340063X+2019_T1	高等化工热力学（下）（2019春）
+C_course-v1:TsinghuaX+10430484X_2015_2+sp	大学物理1 (力学、热学)(自主模式)
+C_course-v1:TsinghuaX+20430064_2X+sp	量子力学（下）（自主模式）
+C_course-v1:TsinghuaX+10430494X_2015_2+sp	大学物理2 (电磁学、光学和量子物理)(自主模式)
+C_course-v1:BIT+PHY1701701+sp	大学物理——近代物理（自主模式）
+C_course-v1:BIT+PHY17016+sp	大学物理——振动、波动与光学（自主模式）
+C_course-v1:MITx+6_002x+sp	电路与电子学 (Circuits and Electronics)(自主模式）
+C_course-v1:TsinghuaX+30130274X+2019_T1	光学工程基础(2019春)
+C_course-v1:NEU+20181206X+2018_T2	材料现代研究方法
+C_course-v1:TsinghuaX+AP000002X+2019_T1	大学物理（先修课）-力学（2019春）
+C_course-v1:BNU+CHE21128011+2019_T1	计算化学（2019春）
+C_course-v1:TsinghuaX+20430054X1+sp	电动力学（上）（自主模式）
+C_course-v1:TsinghuaX+10430575X+2019_T1	力学（2019春）
+C_course-v1:UQx+BIOIMG101x+sp	生物医学成像学导论（自主模式）

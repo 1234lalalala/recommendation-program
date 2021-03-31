@@ -1,0 +1,10 @@
+C_course-v1:PSFFC+2018102402X+2018_T2	工业企业消防安全
+C_course-v1:BNU+ENV21105101+2019_T1	固体废物处置与资源化（2019春）
+C_course-v1:TsinghuaX+40990255+2019_T1	建筑环境学（2019春）
+C_course-v1:SYJU+030020406+2019_T1	暖通空调(2019春)
+C_course-v1:CHD+20180622001+2019_T1	道路工程材料（2019春）
+C_course-v1:JNU+077901mc08+2018_T3	生物医药实验室安全知识（自主模式）
+C_course-v1:TsinghuaX+40990255X_1+sp	暖通空调(自主模式)
+C_course-v1:PSFFC+2018102406X+2018_T2	消防应急救援
+C_course-v1:PSFFC+2018102405X+2018_T2	消防燃烧学
+C_course-v1:TsinghuaX+80030222X+2019_T1	钢筋混凝土耐久性导论(2019春)

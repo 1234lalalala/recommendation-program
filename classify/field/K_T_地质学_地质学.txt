@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+00040132X+sp	宝玉石鉴赏（自主模式）
+C_course-v1:TsinghuaX+00040132X+2019_T1	宝玉石鉴赏（2019春）
+C_course-v1:TsinghuaX+40040152X+2019_T1	地质学与工程地质（2019春）
+C_course-v1:FZXY+20180301001+2019_T1	晶体光学（2019春）

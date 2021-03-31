@@ -1,0 +1,8 @@
+C_course-v1:TsinghuaX+20250064X+sp	模拟电子技术基础(应用部分)（自主模式）
+C_course-v1:TsinghuaX+20250103X+sp	数字电子技术基础（自主模式）
+C_course-v1:qdu+2018122608X+2018_T2	电工电子技术
+C_course-v1:HEBNU+20180621001+2019_T1	高频电子线路（2019春）
+C_course-v1:GIT+0500002402+2018_T2	电路原理
+C_course-v1:TsinghuaX+20220214X+2019_T1	电路原理（2019春）
+C_course-v1:GIT+0500002402+2019_T1	电路原理（2019春）
+C_course-v1:TsinghuaX+40260173X+2019_T1	数字集成电路分析与设计（2019春）

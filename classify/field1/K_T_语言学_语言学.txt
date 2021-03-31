@@ -1,0 +1,6 @@
+C_course-v1:HUBU+20170227X+sp	大学葡萄牙语（自主模式）
+C_course-v1:TsinghuaX+20220332X+sp	日语与日本文化(自主模式)
+C_course-v1:BNU+CSL21148501+2018_T2	汉语文字词汇
+C_course-v1:HUBU+20170227X+2019_T1	大学葡萄牙语（2019春）
+C_course-v1:TsinghuaX+20220332X+2019_T1	日语与日本文化（2019春）
+C_course-v1:NBCCx+NBCC000502+2019_T1	英汉语言对比（2019春）

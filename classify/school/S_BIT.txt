@@ -1,0 +1,7 @@
+C_course-v1:BIT+PHY1701702+sp	大学物理——电磁学（自主模式）
+C_course-v1:BIT+PHY1701701+sp	大学物理——近代物理（自主模式）
+C_course-v1:BIT+PHY1701601+sp	大学物理——力学与热学（自主模式）
+C_course-v1:BIT+PHY17016+sp	大学物理——振动、波动与光学（自主模式）
+C_course-v1:BIT+BIT2016001+sp	软件工程与软件自动化（自主模式）
+C_course-v1:BIT+100070018+2019_T1	C语言程序设计（上）(2019春)
+C_course-v1:BIT+100070018+2019_T2	C语言程序设计（下）(2019春)

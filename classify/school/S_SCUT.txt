@@ -1,0 +1,8 @@
+C_course-v1:SCUT+145055+sp	数据结构（Data Structures）（自主模式）
+C_course-v1:SCUT+145033+sp	计算机网络（自主模式）
+C_course-v1:SCUT+145055+2018_T2	数据结构（Data Structures）（2018秋）
+C_course-v1:SCUT+2018122802X+2018_T2	小白学人工智能
+C_course-v1:SCUT+SM001+2019_T1	企业战略管理（2019春）
+C_course-v1:SCUT+2019012401X+SP	计算机辅助设计（自主模式）
+C_course-v1:SCUT+145223+2019_T1	大学计算机基础（2019春）
+C_course-v1:SCUT+20180427001+2019_T1	微积分1（Calculus I）（2019春）

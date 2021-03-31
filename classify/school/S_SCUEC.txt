@@ -1,0 +1,4 @@
+C_course-v1:SCUEC+0171229001+sp	Hello,心理学（自主模式）
+C_course-v1:SCUEC+20171229001+2019_T1	Hello,心理学（2019春）
+C_course-v1:SCUEC+20180620001+2019_T1	谈医说药（2019春）
+C_course-v1:SCUEC+2018112001X+2019_T1	民族手工艺术——走进生活（2019春）

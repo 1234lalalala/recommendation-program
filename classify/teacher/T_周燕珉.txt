@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+80000822X+sp	适老居住空间与环境设计（自主模式）
+C_course-v1:TsinghuaX+80000271X+sp	住宅精细化设计(自主模式)
+C_course-v1:TsinghuaX+80000271X+2019_T1	住宅精细化设计（2019春）
+C_course-v1:TsinghuaX+80000822X+2019_T1	适老居住空间与环境设计（2019春）

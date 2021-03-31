@@ -1,0 +1,4 @@
+C_course-v1:ACCA+MA1_X+sp	初级管理会计(自主模式)
+C_course-v1:ACCA+FA1_X+sp	初级财务会计（自主模式）
+C_course-v1:ACCA+MA1_X+2019_T1	初级管理会计（2019春）
+C_course-v1:ACCA+FA1_X+2019_T1	初级财务会计（2019春）

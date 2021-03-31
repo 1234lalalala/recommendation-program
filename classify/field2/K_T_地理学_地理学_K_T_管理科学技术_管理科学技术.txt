@@ -1,0 +1,9 @@
+C_course-v1:WellesleyX+HIST229x+sp	亚历山大大帝伟大吗？（自主模式）
+C_course-v1:TsinghuaX+00460032X+sp	应对气候变化的中国视角（自主模式）
+C_course-v1:UQx+TROPIC101x+sp	热带海岸线生态系统(自主模式）
+C_course-v1:XAAU+20180411001+2019_T1	《统万城》导读(2019春)
+C_course-v1:ZUEL+B0680090+sp	经济地理与企业兴衰(自主模式)
+C_course-v1:RiceX+AdvENVSCI_2x+sp	AP*备考——环境科学，第二部分：种群（自主模式）
+C_course-v1:MIL+MIL2016001+2019_T1	我国周边14个陆地邻国基本情况介绍（2019春）
+C_course-v1:MIL+MIL2016001+sp	我国周边14个陆地邻国基本情况介绍(自主模式)
+C_course-v1:HUBU+20170619001+sp	环境生态学（自主模式）

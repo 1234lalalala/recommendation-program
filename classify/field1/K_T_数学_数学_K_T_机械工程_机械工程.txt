@@ -1,0 +1,28 @@
+C_course-v1:TsinghuaX+00310222X+sp	创客培养：趣味力学实验与制作（自主模式）
+C_course-v1:TsinghuaX+30040323X+sp	水力学（自主模式）
+C_course-v1:SCUT+2019012401X+SP	计算机辅助设计（自主模式）
+C_course-v1:TsinghuaX+40250074X+2019_T1	自动控制理论（1）（2019春）
+C_course-v1:TsinghuaX+80150193X+sp	汽车碰撞安全基础(自主模式)
+C_course-v1:TsinghuaX+20120143X+2019_T1	工程制图 （2019春）
+C_course-v1:TsinghuaX+20120143X+sp	工程制图 （自主模式）
+C_course-v1:HUBU+HU08001X+2019_T1	工程制图（2019春）
+C_course-v1:TsinghuaX+20330334X_2015_2+sp	理论力学（自主模式）
+C_course-v1:TsinghuaX+40130653X+2019_T1	测试与检测技术基础（2019春）
+C_course-v1:TsinghuaX+30150303X+sp	汽车造型设计二维表达(自主模式)
+C_course-v1:TsinghuaX+THESIS2015X+2015_T1	2015年清华大学研究生学位论文答辩（二）
+C_course-v1:BNU+2018122603X+2018_T2	篮球——基本技术
+C_course-v1:SWPU+3615001035+2019_T1	钻井与完井工程（2019春）
+C_course-v1:TsinghuaX+00310222X+2019_T1	创客培养：趣味力学实验与制作（2019春）
+C_course-v1:TsinghuaX+30140393X+sp	燃烧理论（自主模式）
+C_course-v1:TsinghuaX+80150193X+2019_T1	汽车碰撞安全基础(2019春)
+C_course-v1:TsinghuaX+20140064_2X+2018_sp	 工程热力学（下）
+C_course-v1:HEBUT+20170921001+sp	工程图学（自主模式）
+C_course-v1:MITx+2_03x+sp	动力学
+C_course-v1:TsinghuaX+THESIS2015X_tv+2015_T1	2015年清华大学研究生学位论文答辩（一）
+C_course-v1:YSU+20180301001+2019_T1	工程制图基础(2019春)
+C_course-v1:HIT+HIT2016002+sp	高山滑雪（自主模式）
+C_course-v1:Tsinghuax+30130123X+sp	控制工程基础（自主模式）
+C_course-v1:ZJUX+2017011101X+2017_T1	环境工程CAD（自主模式）
+C_course-v1:CUPB+100203E003+2019_T1	采油工程（2019春）
+C_course-v1:SichuanU+302074030+2019_T1	机械原理(2019春）
+C_course-v1:TsinghuaX+40050455X+sp	水处理工程-生化技术（自主模式）

@@ -1,0 +1,8 @@
+C_course-v1:KMUSTX+8209001+sp	生活中的市场营销学(自主模式)
+C_course-v1:KMUSTX+1803168+2018_T2	基因工程
+C_course-v1:KMUSTX+1193004+2019_T1	极速悟透3ds Max（2019春）
+C_course-v1:KMUSTX+1153036+2019_T1	职场菜鸟礼仪指南（2019春）
+C_course-v1:KMUSTX+2018091101X+2019_T1	教你孕育健康宝贝（2019春）
+C_course-v1:KMUSTX+8209001+2019_T1	生活中的市场营销学（2019春）
+C_course-v1:KMUSTX+8219011+2019_T1	理工学术英语（2019春）
+C_course-v1:KMUSTX+1803168+2019_T1	基因工程（2019春）

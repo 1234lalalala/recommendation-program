@@ -1,0 +1,72 @@
+C_course-v1:PekingX+Peking001x+_	慕课问道（自主模式）
+C_course-v1:UST+UST001+sp	网络技术与应用（自主模式）
+C_course-v1:TsinghuaX+00740043X_2015_T2+sp	C++语言程序设计基础（自主模式）
+C_course-v1:TsinghuaX+00740043_2x_2015_T2+sp	C++语言程序设计进阶 (自主模式)
+C_course-v1:MicrosoftX+Microsoft101+sp	微软亚洲研究院大数据系列讲座（自主模式）
+C_course-v1:TsinghuaX+60240202X+sp	大数据平台核心技术（自主模式）
+C_course-v1:MITx+6_00_1x+sp	计算机科学和Python编程导论（自主模式）
+C_course-v1:BJUT+2140074001x+sp	高级数据库系统（自主模式）
+C_course-v1:TsinghuaX+30240184_2X+sp	数据结构(下)(自主模式)
+C_course-v1:TsinghuaX+30240243X+sp	操作系统（自主模式）
+C_course-v1:TsinghuaX+00740113_2X+sp	VC++面向对象与可视化程序设计（下）：MFC编程基础 (自主模式)
+C_course-v1:UC_BerkeleyX+CS_184_1x+sp	计算机图形学导论（自主模式）
+C_course-v1:TsinghuaX+00740113_1X+sp	VC++面向对象与可视化程序设计（上）：Windows编程基础 (自主模式)
+C_course-v1:TsinghuaX+34100325_X+sp	软件工程（自主模式）
+C_course-v1:TsinghuaX+00740123_X+sp	Java程序设计（自主模式）
+C_course-v1:TsinghuaX+64100033X+SP	大数据系统基础（自主模式）
+C_course-v1:NJU+C1026+2016_T2	计算机操作系统（自主模式）
+C_course-v1:NBCC+NBCC000201+_sp	Linux系统管理（自主模式）
+C_course-v1:WUT+1022817X+sp	互联网大规模数据分析技术（自主模式）
+C_course-v1:USTC+2017011401X+2017_T1	互联网体系结构
+C_course-v1:USTC+2017011402X+2017_T1	Web安全实践
+C_course-v1:BIT+BIT2016001+sp	软件工程与软件自动化（自主模式）
+C_course-v1:TsinghuaX+81020142X+sp	IC设计与方法（自主模式）
+C_course-v1:TsinghuaX+Pr20170406-SC_p1+sp	智能车制作：嵌入式系统
+C_course-v1:GXUST+2017041901X+2017_T1	计算思维导论（自主模式）
+C_course-v1:ICx+Spanish001+sp	西班牙语很容易 El español es fácil（自主模式）
+C_course-v1:XJTU+COMP200853+sp	微机原理与接口技术（自主模式）
+C_course-v1:UESTC+2017071301X+sp	嵌入式系统设计
+C_course-v1:CQU+ICE20012+sp	卡通说解数字电子技术（自主模式）
+C_course-v1:SPI+40281x+sp	PLC应用技术（自主模式）
+C_course-v1:EST+20170914+sp	测试系统集成技术(自主模式)
+C_course-v1:SICT+2017092601+sp	智能设备应用开发（基于Android平台）（自主模式）
+C_course-v1:SCUT+145055+sp	数据结构（Data Structures）（自主模式）
+C_course-v1:CUNY+20171211001+sp	网络安全概述（自主模式）
+C_course-v1:XIYOU+20180208+sp	编译技术
+C_course-v1:TsinghuaX+2018032801X+2018_T1	学做小程序
+C_course-v1:SCUT+145033+sp	计算机网络（自主模式）
+C_course-v1:BerkeleyX+CS169_1X+sp	云计算与软件工程
+C_course-v1:NCEPU+20180628001+2018_T2	自动化专业概论
+C_course-v1:SCUT+145055+2018_T2	数据结构（Data Structures）（2018秋）
+C_course-v1:UESTC+E2216230+2018_T2	数据库系统原理与开发
+C_course-v1:NBCC+031J33B00+sp	“做中学”Java程序设计(自主模式)
+C_course-v1:Tsinghua+20181011X+2018_T2	青年AI自强计划-计算机视觉课程
+C_course-v1:XJAU+246010007+2018_T2	Python 交互式程序设计导论
+C_course-v1:LinuxFoundationX+Linux001+sp	Linux导论（自主模式）
+C_course-v1:WUT+1022817X+2019_T1	互联网大规模数据分析技术（2019春）
+C_course-v1:TsinghuaX+00740123X+2019_T1	Java程序设计（2019春）
+C_course-v1:TsinghuaX+30240532X+2019_T1	面向对象程序设计（C++）（2019春）
+C_course-v1:YIT+2018122509X+2018_T2	大学计算机基础与应用
+C_course-v1:HBPU+20181226006X+2018_T2	高级语言程序设计
+C_course-v1:TsinghuaX+00740043_1x+2019_T1	C++语言程序设计基础（2019春）
+C_course-v1:TsinghuaX+00740043_2x+2019_T1	C++语言程序设计进阶（2019春）
+C_course-v1:TsinghuaX+40809644X+2019_T1	界面设计导论（2019春）
+C_course-v1:SCUT+2018122802X+2018_T2	小白学人工智能
+C_course-v1:TsinghuaX+2018011901X+2019_T1	Petri网：模型、理论与应用（2019春）
+C_course-v1:SXPI+40281x+2019_T1	PLC应用技术（2019春）
+C_course-v1:XIYOU+20180208+2019_T1	编译技术（2019春）
+C_course-v1:TsinghuaX+20740084X+2019_T1	基于Linux的C++（2019春）
+C_course-v1:TsinghuaX+20240103X+2019_T1	汇编语言程序设计（2019春）
+C_course-v1:TsinghuaX+THU201606X+2019_T1	高级大数据系统（2019春）
+C_course-v1:TsinghuaX+44100343X+2019_T1	Web前端攻城狮（2019春）
+C_course-v1:TsinghuaX+20320074X+2019_T1	ARM微控制器与嵌入式系统（2019春）
+C_course-v1:TsinghuaX+64100033X+2019_T1	大数据系统基础（2019春）
+C_course-v1:BIT+100070018+2019_T2	C语言程序设计（下）(2019春)
+C_course-v1:TsinghuaX+20740042X+2019_T1	计算机文化基础（2019春）
+C_course-v1:SCUT+145223+2019_T1	大学计算机基础（2019春）
+C_course-v1:TsinghuaX+30230931X+2019_T1	电子信息科学与技术导引(1)(2019春) 
+C_course-v1:chzu+ZJ1867357+2019_T1	信息素养-互联网+时代的学习与生活（2019春）
+C_course-v1:USTC+SE20190403X+sp	互联网体系结构（自主模式）
+C_course-v1:TsinghuaX+34100333+2019_T1	软件理论基础（2019春）
+C_course-v1:TsinghuaX+30240332+2019_T1	JAVA程序设计进阶（2019春）
+C_course-v1:HBNU+2019051509X+2019_T1	5G与人工智能

@@ -1,0 +1,5 @@
+C_course-v1:TsinghuaX+30700313X+sp	心理学概论（自主模式）
+C_course-v1:CIE+CIE2017001+2019_T1	创新创业心理学（2019春）
+C_course-v1:TsinghuaX+30700313X+2019_T1	心理学概论（2019春）
+C_course-v1:TsinghuaX+8070071301+2019_T1	积极心理学（上）厚德载物篇（2019春）
+C_course-v1:TsinghuaX+8070071302+2019_T1	积极心理学（下）自强不息篇（2019春）

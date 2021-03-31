@@ -1,0 +1,13 @@
+C_course-v1:YMY+20171108001+sp	关爱健康·从齿开启 
+C_course-v1:FAFU+20171121001+2017_T1	寄生虫与公共卫生（自主模式）
+C_course-v1:gmc+30102+2018_T2	病理生理学
+C_course-v1:XJTU+2018121301X+2018_T2	牙周病学
+C_course-v1:KMUSTX+2018091101X+2019_T1	教你孕育健康宝贝（2019春）
+C_course-v1:XJTU+2018122507X+2018_T2	呼吸系统疾病
+C_course-v1:FAFU+55071003+2019_T1	寄生虫与公共卫生（2019春）
+C_course-v1:TsinghuaX+34000312X+2019_T1	医学寄生虫学(2019春)
+C_course-v1:TsinghuaX+20190222+2019_T1	病理学
+C_course-v1:XMU+2019031401X+2019_T1	儿科护理学
+C_course-v1:PekingX+2018122102X+2019_T1	病理生理学（2019春）
+C_course-v1:shsmu+shsmu001+2019_T1	常见病的健康管理（2019春）
+C_course-v1:CMU+2018122401X+2019_T1	传染病学（2019春）

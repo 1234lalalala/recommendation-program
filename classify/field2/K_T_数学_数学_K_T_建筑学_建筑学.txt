@@ -1,0 +1,6 @@
+C_course-v1:SichuanU+306197030+2019_T1	土力学（2019春）
+C_course-v1:CQU+2017121401X+2019_T1	结构力学（2019春）
+C_course-v1:CQU+MATH20041X+2019_T1	概率论与数理统计（2019春）
+C_course-v1:GZLIS+070200140+2019_T1	印刷色彩基础与实务（2019春）
+C_course-v1:GZLIS+070200140+2018_T1	印刷色彩基础与实务
+C_course-v1:TsinghuaX+30040263X+sp	土力学（自主模式）

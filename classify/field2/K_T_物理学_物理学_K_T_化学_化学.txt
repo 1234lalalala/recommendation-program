@@ -1,0 +1,8 @@
+C_course-v1:TsinghuaX+30320174X+sp	核辐射物理及探测学(自主模式)
+C_course-v1:RiceX+AdvBIO_1x+sp	AP*备考——生物学，第一部分：细胞（自主模式）
+C_course-v1:TsinghuaX+AP000015X+2019_T1	大学化学（先修课）（2019春）
+C_course-v1:NCTU+wghx+2017_T1	微观化学世界（自主模式）
+C_course-v1:NEU+2019012201X+2019_T2	物理化学（上）（2019夏）
+C_course-v1:NEU+2018122401X+2019_T1	无机化学
+C_course-v1:TsinghuaX+AP000001X+2019_T1	大学化学（2019春）
+C_course-v1:NEU+2019012202X+2019_T2	物理化学（下）（2019夏）

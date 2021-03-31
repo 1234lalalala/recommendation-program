@@ -1,0 +1,10 @@
+C_course-v1:XJTU+ME-XMGL2013-014X+sp	项目采购与合同管理（自主模式）
+C_course-v1:XJTU+COMP200853+sp	微机原理与接口技术（自主模式）
+C_course-v1:XJTU+PHLS100914+sp	医学伦理学（自主模式）
+C_course-v1:XJTU+C00204+sp	中国哲学经典著作导读（自主模式）
+C_course-v1:XJTU+2018121301X+2018_T2	牙周病学
+C_course-v1:XJTU+2018122507X+2018_T2	呼吸系统疾病
+C_course-v1:XJTU+20171025001+2019_T1	大学化学(2019春)
+C_course-v1:XJTU+CHEM330109+2019_T1	简明有机化学（先修课）（2019春）
+C_course-v1:XJTU+C00204+2019_T1	中国哲学经典著作导读（2019春）
+C_course-v1:XJTU+2018112004X+2019_T1	国防教育——热点问题（2019春）

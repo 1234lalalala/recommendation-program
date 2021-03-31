@@ -1,0 +1,12 @@
+C_course-v1:TsinghuaX+61030031X+2019sp	教育学导引（自主模式）
+C_course-v1:edX+BlendedX+sp	混合式学习（自主模式）
+C_course-v1:TsinghuaX+80611322X+sp	教育社会学（自主模式）
+C_course-v1:TsinghuaX+01030132X+sp	大学历史与文化（自主模式）
+C_course-v1:TW+2018052501X+2019_T3	STEM课程设计与案例分析（2019秋）
+C_course-v1:xuetangX+MOOC102+2019_T1	e时代的教与学——慕课引发的混合式教学（2019春）
+C_course-v1:rcoe+mooc103+2019_T1	e时代的新课堂——在线教育概论(2019春)
+C_course-v1:TsinghuaX+80611322X+2019_T1	教育社会学（2019春）
+C_course-v1:TsinghuaX+01030132X+2019_T1	大学历史与文化（2019春）
+C_course-v1:BNU+2017112001X+2019_T1	史学名家的治史历程与方法（2019春）
+C_course-v1:TsinghuaX+JWWCD001+2015_T2	教＆学微辞典
+C_course-v1:ZZU+2018032501X+2019_T1	信息技术与教育应用（2019春）

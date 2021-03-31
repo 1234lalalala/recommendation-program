@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+TSINGHUA107+sp	经典与思考——人文清华大师面对面（自主模式）
+C_course-v1:TsinghuaX+TSINGHUA107+2019_T1	经典与思考——人文清华大师面对面（2019春）
+C_course-v1:TsinghuaX+AP000015X+2019_T1	大学化学（先修课）（2019春）
+C_course-v1:TsinghuaX+AP000001X+2019_T1	大学化学（2019春）

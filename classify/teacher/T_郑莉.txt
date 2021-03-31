@@ -1,0 +1,6 @@
+C_course-v1:TsinghuaX+00740043X_2015_T2+sp	C++语言程序设计基础（自主模式）
+C_course-v1:TsinghuaX+00740043_2x_2015_T2+sp	C++语言程序设计进阶 (自主模式)
+C_course-v1:TsinghuaX+00740123_X+sp	Java程序设计（自主模式）
+C_course-v1:TsinghuaX+00740123X+2019_T1	Java程序设计（2019春）
+C_course-v1:TsinghuaX+00740043_1x+2019_T1	C++语言程序设计基础（2019春）
+C_course-v1:TsinghuaX+00740043_2x+2019_T1	C++语言程序设计进阶（2019春）

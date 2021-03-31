@@ -1,0 +1,4 @@
+C_course-v1:HIT+HIT2016002+sp	高山滑雪（自主模式）
+C_course-v1:HIT+HIT2016001+sp	冰壶（自主模式）
+C_course-v1:HIT+HIT2016001+2019_T1	冰壶运动（2019春）
+C_course-v1:HIT+13SC20301820+2019_T1	会计信息系统（2019春）

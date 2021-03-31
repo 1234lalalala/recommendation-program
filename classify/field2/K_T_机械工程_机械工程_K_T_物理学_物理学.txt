@@ -1,0 +1,5 @@
+C_course-v1:TsinghuaX+40260092X+sp	集成传感器(自主模式)
+C_course-v1:TsinghuaX+laserapp+2019_T1	激光及其应用（2019春）
+C_course-v1:TsinghuaX+20140064X+2018_sp	 工程热力学（上）
+C_course-v1:TsinghuaX+30260032X_+2019_T1	MEMS与微系统（2019春）
+C_course-v1:TsinghuaX+40130753+2019_T1	光电仪器设计（2019春）

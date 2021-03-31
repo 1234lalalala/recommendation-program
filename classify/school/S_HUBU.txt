@@ -1,0 +1,12 @@
+C_course-v1:HUBU+HU08002X+sp	运动与健康（自主模式）
+C_course-v1:HUBU+HU08003X+sp	运动与解剖学（自主模式）
+C_course-v1:HUBU+20170227X+sp	大学葡萄牙语（自主模式）
+C_course-v1:HUBU+2017022703X+sp	英语语音（自主模式）
+C_course-v1:HUBU+2017030501X+sp	电路与电工实验（自主模式）
+C_course-v1:HUBU+20170619001+sp	环境生态学（自主模式）
+C_course-v1:HUBU+20170227X+2019_T1	大学葡萄牙语（2019春）
+C_course-v1:HUBU+HU08002X+2019_T1	运动与健康（2019春）
+C_course-v1:HUBU+20170914001+2019_T1	房地产开发与经营（2019春）
+C_course-v1:HUBU+20190124X+2019_T1	管理沟通的艺术
+C_course-v1:HUBU+HU08001X+2019_T1	工程制图（2019春）
+C_course-v1:HUBU+20181017X+2019_T1	无机化学(2019春)

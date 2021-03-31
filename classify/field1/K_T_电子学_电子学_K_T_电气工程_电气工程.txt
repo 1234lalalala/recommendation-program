@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+20250064+sp	模拟电子技术基础(基础部分)(自主模式)
+C_course-v1:HUBU+2017030501X+sp	电路与电工实验（自主模式）
+C_course-v1:HEBUT+2019040202X+2019_T1	低频电子线路
+C_course-v1:HEBNU+2017011901X+sp	模拟电子技术基础(自主模式)

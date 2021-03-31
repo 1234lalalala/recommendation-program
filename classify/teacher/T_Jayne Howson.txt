@@ -1,0 +1,5 @@
+C_course-v1:ACCA+MA2_X+sp	中级管理会计(自主模式)
+C_course-v1:ACCA+FA2_X+sp	中级财务会计(自主模式)
+C_course-v1:ACCA+MA2_X+2019_T1	中级管理会计（2019春）
+C_course-v1:ACCA+FA2_X+2019_T1	中级财务会计（2019春）
+C_course-v1:ACCA+FA2_X_en+2019_T1	Intermediate Bookkeeping（自主模式）

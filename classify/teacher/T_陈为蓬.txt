@@ -1,0 +1,5 @@
+C_course-v1:TsinghuaX+00690092X+sp	逻辑学概论（自主模式）
+C_course-v1:TsinghuaX+00690302_2+sp	携手向花间——昆曲经典剧目欣赏（自主模式）
+C_course-v1:TsinghuaX+00690302_1+sp	原来姹紫嫣红开遍——昆曲艺术欣赏（自主模式）
+C_course-v1:TsinghuaX+00690092X+2019_T1	逻辑学概论（2019春）
+C_course-v1:TsinghuaX+00690302_2+2019_T1	携手向花间——昆曲经典剧目欣赏（2019春）

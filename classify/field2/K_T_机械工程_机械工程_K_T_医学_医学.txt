@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+34000888X+2019_T1	走进医学（2019春）
+C_course-v1:BNU+2018091302X+2019_T1	运动与关节健康（2019春）
+C_course-v1:TsinghuaX+34000888X+sp	走进医学（自主模式）
+C_course-v1:HUBU+HU08003X+sp	运动与解剖学（自主模式）

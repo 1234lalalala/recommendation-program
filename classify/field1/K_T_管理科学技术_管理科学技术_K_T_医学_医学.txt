@@ -1,0 +1,5 @@
+C_course-v1:TsinghuaX+400182X+2019_T1	医的奥秘（2019春）
+C_course-v1:nxu+2018122713+2019_T1	人类遗传探秘（2019春）
+C_course-v1:PasteurX+96008+sp	结核病 （自主模式）
+C_course-v1:TsinghuaX+400182X+sp	医的奥秘（自主模式）
+C_course-v1:TsinghuaX+04000083+2019_T1	肿瘤生物学概论（2019春）

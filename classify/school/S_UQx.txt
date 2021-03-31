@@ -1,0 +1,5 @@
+C_course-v1:UQx+Think101x+sp	日常思考的科学（自主模式）
+C_course-v1:UQx+BIOIMG101x+sp	生物医学成像学导论（自主模式）
+C_course-v1:UQx+TROPIC101x+sp	热带海岸线生态系统(自主模式）
+C_course-v1:UQx+Crime101x+sp	刑事审判心理学（自主模式）
+C_course-v1:UQx+Think101x+2019_T1	日常思考的科学（2019春）

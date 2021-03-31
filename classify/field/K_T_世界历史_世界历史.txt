@@ -1,0 +1,7 @@
+C_course-v1:TsinghuaX+10610193X+sp	中国近现代史纲要（自主模式）
+C_course-v1:GZHU+000001004+sp	中国近现代史纲要（自主模式）
+C_course-v1:CSU+210201T10+sp	中国近现代史纲要（自主模式）
+C_course-v1:TsinghuaX+10610193X+2019_T1	中国近现代史纲要（2019春）
+C_course-v1:GZHU+000001004+2019_T1	中国近现代史纲要（2019春）
+C_course-v1:IMUN+5024610+2019_T1	世界文明史（2019春）
+C_course-v1:TsinghuaX+TsinghuaX+2019_T1	高技术与现代局部战争（2019春）

@@ -1,0 +1,10 @@
+C_course-v1:TsinghuaX+80000901X_2+sp	中国建筑史（下）（自主模式）
+C_course-v1:TsinghuaX+80000901X_1+sp	中国建筑史（上）(自主模式)
+C_course-v1:TsinghuaX+80000271X+sp	住宅精细化设计(自主模式)
+C_course-v1:PSFFC+2018102403X+2018_T2	建筑消防安全
+C_course-v1:HNU+AR03015+2019_T1	中国古代建筑艺术（2019春）
+C_course-v1:TsinghuaX+80000271X+2019_T1	住宅精细化设计（2019春）
+C_course-v1:TsinghuaX+80000901X_1+2019_T1	中国建筑史——史前至两宋辽金（2019春）
+C_course-v1:TsinghuaX+80000901X_2+2019_T1	中国建筑史——元明清与民居（2019春）
+C_course-v1:TsinghuaX+00990021X+2019_T1	绿色建筑与可持续发展（2019春）
+C_course-v1:TsinghuaX+2019032101X+2019_T2	明·园境赏析：明代36佳境

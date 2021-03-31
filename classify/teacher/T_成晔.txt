@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+40160092X+sp	生产计划与控制（自主模式）
+C_course-v1:TsinghuaX+80160283+2019_T1	系统化产品设计与开发（2019春）
+C_course-v1:TsinghuaX+40160092X+2019_T1	生产计划与控制（2019春）
+C_course-v1:TsinghuaX+20190225x+2019_T1	工业生产管理概论

@@ -1,0 +1,4 @@
+C_course-v1:SDSNAssociation+ASD+sp	Age of Sustainable Development
+C_course-v1:SDSNAssociation+CSN+sp	Climate Change Science and Negotiations
+C_course-v1:SDSNAssociation+C21001+sp	Cities and the Challenge of Sustainable Development
+C_course-v1:SDSNAssociation+TOW001+sp	Transforming Our World

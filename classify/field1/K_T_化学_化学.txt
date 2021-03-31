@@ -1,0 +1,8 @@
+C_course-v1:TsinghuaX+20440333X+sp	有机化学（自主模式）
+C_course-v1:HAUT+2017070701X+sp	有机化学（自主模式）
+C_course-v1:cup+20180130+sp	催化剂设计与制备
+C_course-v1:SHZU+Z104021+2019_T1	药物分析（2019春）
+C_course-v1:BNU+0910042801+2019_T1	普通化学（2019春）
+C_course-v1:TsinghuaX+20440333X+2019_T1	有机化学（2019春）
+C_course-v1:XJTU+CHEM330109+2019_T1	简明有机化学（先修课）（2019春）
+C_course-v1:HUBU+20181017X+2019_T1	无机化学(2019春)

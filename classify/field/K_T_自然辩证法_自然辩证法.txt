@@ -1,0 +1,27 @@
+C_course-v1:TsinghuaX+00691153X+sp	不朽的艺术：走进大师与经典（自主模式）
+C_course-v1:TsinghuaX+00680082X+sp	审美的历程（自主模式）
+C_course-v1:TsinghuaX+00690342X+sp	西方哲学精神探源(自主模式)
+C_course-v1:TsinghuaX+10800163X+sp	艺术的启示（自主模式）
+C_course-v1:JSUX+2017011101X+sp	艺术心理学(自主模式)
+C_course-v1:XJTU+C00204+sp	中国哲学经典著作导读（自主模式）
+C_course-v1:GZHU+136300904+sp	生死学（自主模式）
+C_course-v1:HNU+20180424001+2018_T1	马克思主义基本原理（1）
+C_course-v1:NJU+37204001+2018_T3	学在南哲：哲学与哲人
+C_course-v1:BNU+2018091305X+2019_T1	武术与强身避险（2019春）
+C_course-v1:TsinghuaX+00691153X+2019_T1	不朽的艺术：走进大师与经典（2019春）
+C_course-v1:TsinghuaX+10800163X+2019_T1	艺术的启示（2019春 ）
+C_course-v1:LZU+2018122505X+2018_T2	马克思主义基本原理概论
+C_course-v1:NJU+2018041201X+sp	走近中华优秀传统文化（自主模式）
+C_course-v1:BNU+0610073981+2019_T1	西方哲学I：古代部分（2019春）
+C_course-v1:BNU+1010070372+2019_T1	微生物学（2019春）
+C_course-v1:BNU+GE310141091+2019_T1	新闻摄影（2019春）
+C_course-v1:BNU+PHI2107404101+2019_T1	《纯粹理性批判》导论（2019春）
+C_course-v1:BNU+0610073991+2019_T1	西方哲学II：近代部分（2019春）
+C_course-v1:GZHU+136300904+2019_T1	生死学（2019春）
+C_course-v1:TsinghuaX+00690342X+2019_T1	西方哲学精神探源（2019春）
+C_course-v1:BNU+2018122405X+2019_T1	一舞一世界——世界经典舞蹈赏析（2019春）
+C_course-v1:BNU+2018122601X+2019_T1	意在象中——中国古典诗词鉴赏（2019春）
+C_course-v1:XJTU+C00204+2019_T1	中国哲学经典著作导读（2019春）
+C_course-v1:TsinghuaX+L061101X+sp	庄子哲学导读（自主模式）
+C_course-v1:HQU+20180307008+2019_T1	马克思主义基本原理概论（2019春）
+C_course-v1:CSU+2019043001X+2019_T1	医患沟通技能学

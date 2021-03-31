@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+00612642X+sp	《资治通鉴》导读(自主模式)
+C_course-v1:TsinghuaX+00612643X+sp	大唐兴衰（自主模式）
+C_course-v1:TsinghuaX+00612642X+2019_T1	《资治通鉴》导读（2019春）
+C_course-v1:TsinghuaX+00612643X+2019_T1	大唐兴衰（2019春）

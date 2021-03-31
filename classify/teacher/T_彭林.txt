@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+00690242+sp	文物精品与文化中国（自主模式）
+C_course-v1:TsinghuaX+00690212X+sp	中国古代礼义文明（上）（自主模式）
+C_course-v1:TsinghuaX+00690212X-2+sp	中国古代礼义文明（下）（自主模式）
+C_course-v1:TsinghuaX+00690242X+2019_T1	文物精品与文化中国（2019春）

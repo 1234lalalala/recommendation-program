@@ -1,0 +1,6 @@
+C_course-v1:JNUX+07009156X+sp	中医与诊断-学做自己的医生（自主模式）
+C_course-v1:JNUX+jnu05011190X+sp	华文趣味教学法（自主模式）
+C_course-v1:JNUX+2018120406X+2018_T2	数学建模
+C_course-v1:JNUX+jnu2017001X+2019_T1	《红楼梦》的空间艺术（2019春）
+C_course-v1:JNUX+07009156X+2019_T1	中医与诊断-学做自己的医生（2019春）
+C_course-v1:JNUX+jnu05011190X+2019_T1	华文趣味教学法（2019春）

@@ -1,0 +1,5 @@
+C_course-v1:gmc+3060511+2018_T2	药剂学
+C_course-v1:TsinghuaX+40050455_2X+sp	水处理工程-物化技术（自主模式）
+C_course-v1:TsinghuaX+10450034_1X_2X+2019_T1	普通生物学（2019春）
+C_course-v1:TsinghuaX+AP000016X+2019_T1	普通生物学（先修课）（2019春）
+C_course-v1:JNU+07040146+2018_T1	细胞生物学：细胞社会的奥秘（2018春）

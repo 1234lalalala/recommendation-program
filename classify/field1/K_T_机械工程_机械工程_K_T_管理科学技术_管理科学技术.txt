@@ -1,0 +1,7 @@
+C_course-v1:TsinghuaX+20190225x+2019_T1	工业生产管理概论
+C_course-v1:BSU+2018122404X+2019_T1	网球技术动作入门（2019春）
+C_course-v1:dlmu+20180330+sp	实用绳结技术（自主模式）
+C_course-v1:HIT+HIT2016001+sp	冰壶（自主模式）
+C_course-v1:dlmu+20180906+2019_T1	航海概论(2019春)
+C_course-v1:TsinghuaX+80160283+2019_T1	系统化产品设计与开发（2019春）
+C_course-v1:HIT+HIT2016001+2019_T1	冰壶运动（2019春）

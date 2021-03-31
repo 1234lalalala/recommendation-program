@@ -1,0 +1,22 @@
+C_course-v1:TsinghuaX+70120073X+sp	有限元分析及应用（自主模式）
+C_course-v1:TsinghuaX+70250023X_2015_2+sp	线性系统理论（自主模式）
+C_course-v1:TsinghuaX+10421075X_2015_2+sp	微积分B(1)（自主模式）
+C_course-v1:TsinghuaX+10421084X_2015_2+sp	微积分B(2)(自主模式)
+C_course-v1:TsinghuaX+10421102x_2015_T2+sp	线性代数(2)（自主模式）
+C_course-v1:TsinghuaX+10421094X_2015_2+sp	线性代数(1)（自主模式）
+C_course-v1:TsinghuaX+60240013X+sp	组合数学（自主模式）
+C_course-v1:TsinghuaX+70150104X+2019_T1	动态测试与分析（上）2019春
+C_course-v1:TsinghuaX+70150104_2X+2019_T1	动态测试与分析（下）2019春
+C_course-v1:YSU+20180301002+2019_T1	线性代数（简明版）（2019春）
+C_course-v1:TsinghuaX+10421094X+2019_T1	线性代数(1)(2019春)
+C_course-v1:USTC+AP000011X+2019_T1	多元微积分（先修课）（2019春）
+C_course-v1:TsinghuaX+40250683X+2019_T1	自动控制理论（2）（2019春）
+C_course-v1:TsinghuaX+AP000005X+2019_T1	微积分（先修课）（2019春）
+C_course-v1:TsinghuaX+AP000003X+2019_T1	概率论与数理统计 （2019春）
+C_course-v1:TsinghuaX+AP000014X+2019_T1	概率论与数理统计 （先修课）（2019春）
+C_course-v1:TsinghuaX+AP000013X+2019_T1	线性代数（先修课）（2019春）
+C_course-v1:TsinghuaX+AP000004X+2019_T1	简明线性代数（2019春）
+C_course-v1:TsinghuaX+10421075X+2019_T1	微积分——极限理论与一元函数（2019春）
+C_course-v1:TsinghuaX+10421084X+2019_T1	微积分——多元函数与重积分（2019春）
+C_course-v1:GZHU+20180718001+2019_T1	动态几何（2019春）
+C_course-v1:DUT+3412113011+2019_T1	高等数学习题课——级数，多元函数微积分（2019春）

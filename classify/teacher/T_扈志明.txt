@@ -1,0 +1,5 @@
+C_course-v1:TsinghuaX+10421075X_2015_2+sp	微积分B(1)（自主模式）
+C_course-v1:TsinghuaX+10421084X_2015_2+sp	微积分B(2)(自主模式)
+C_course-v1:TsinghuaX+AP000005X+2019_T1	微积分（先修课）（2019春）
+C_course-v1:TsinghuaX+10421075X+2019_T1	微积分——极限理论与一元函数（2019春）
+C_course-v1:TsinghuaX+10421084X+2019_T1	微积分——多元函数与重积分（2019春）

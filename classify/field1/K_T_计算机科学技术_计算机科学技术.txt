@@ -1,0 +1,3 @@
+C_course-v1:TsinghuaX+Pr20170406-SC_p1+sp	智能车制作：嵌入式系统
+C_course-v1:UESTC+2017071301X+sp	嵌入式系统设计
+C_course-v1:TsinghuaX+20320074X+2019_T1	ARM微控制器与嵌入式系统（2019春）

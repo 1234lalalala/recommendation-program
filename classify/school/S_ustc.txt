@@ -1,0 +1,4 @@
+C_course-v1:USTC+2017011401X+2017_T1	互联网体系结构
+C_course-v1:USTC+2017011402X+2017_T1	Web安全实践
+C_course-v1:USTC+AP000011X+2019_T1	多元微积分（先修课）（2019春）
+C_course-v1:USTC+SE20190403X+sp	互联网体系结构（自主模式）

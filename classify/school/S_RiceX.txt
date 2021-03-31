@@ -1,0 +1,12 @@
+C_course-v1:RiceX+AdvENVSCI_1x+sp	AP*备考——环境科学，第一部分：生物界(自主模式）
+C_course-v1:RiceX+BIOC372_1x+sp	免疫学基础——第Ⅰ部分（自主模式）
+C_course-v1:RiceX+BIOC372_2x+sp	免疫学基础——第Ⅱ部分(自主模式）
+C_course-v1:RiceX+AdvBIO_1x+sp	AP*备考——生物学，第一部分：细胞（自主模式）
+C_course-v1:RiceX+AdvBIO_2x+sp	AP*备考——生物学，第二部分：遗传学（自主模式）
+C_course-v1:RiceX+AdvBIO_3x+sp	AP*备考——生物学，第三部分：演化和多样性（自主模式）
+C_course-v1:RiceX+AdvBIO_4x+sp	AP*备考——生物学，第四部分：生态学（自主模式）
+C_course-v1:RiceX+AdvENVSCI_2x+sp	AP*备考——环境科学，第二部分：种群（自主模式）
+C_course-v1:RiceX+AdvENVSCI_3x+sp	AP*备考——环境科学，第三部分：污染和资源（自主模式）
+C_course-v1:RiceX+RELI157x+sp	 宗教和嘻哈文化（自主模式）
+C_course-v1:RiceX+MedDigX+sp	数字时代的医学(自主模式)
+C_course-v1:RiceX+Phys102x+sp	Electricity & Magnetism

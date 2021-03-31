@@ -1,0 +1,6 @@
+C_course-v1:TsinghuaX+THESIS2015X+2015_T1	2015年清华大学研究生学位论文答辩（二）
+C_course-v1:TsinghuaX+THESIS2014_1X_tv+_2014_	2014年清华大学研究生学位论文答辩（一）
+C_course-v1:TsinghuaX+THESIS2015X_tv+2015_T1	2015年清华大学研究生学位论文答辩（一）
+C_course-v1:TsinghuaX+THESIS2016X_tv+2016_T1	2016年清华大学研究生学位论文答辩（二）
+C_course-v1:TsinghuaX+Thesis2016X+sp	2016年清华大学研究生学位论文答辩（一）
+C_course-v1:TsinghuaX+Thesis2018+sp	2017年清华大学研究生学位论文答辩（二）

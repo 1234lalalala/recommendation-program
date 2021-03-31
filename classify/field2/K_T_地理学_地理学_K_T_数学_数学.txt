@@ -1,0 +1,2 @@
+C_course-v1:TsinghuaX+30040352X+sp	地下水文学（水文学原理及应用（2））（自主模式）
+C_course-v1:McGillX+ATOC185x+2015_T1	自然灾害（自主模式）

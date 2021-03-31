@@ -1,0 +1,8 @@
+C_course-v1:MITx+6_00_1x+sp	计算机科学和Python编程导论（自主模式）
+C_course-v1:MITx+15_390_2x+sp	创业102：你能为客户做什么？（自主模式）
+C_course-v1:MITx+6_002x+sp	电路与电子学 (Circuits and Electronics)(自主模式）
+C_course-v1:MITx+2_03x+sp	动力学
+C_course-v1:MITx+15_390_2x+2019_T1	创业102：你能为客户做什么？（2019春）
+C_course-v1:MITx+15_390x_1+2019_T1	创业101：你的客户是谁？（2019春）
+C_course-v1:MITx+15_671x+2019_T1	u.lab 0x: 基于觉察的系统创变：感知和共创未来（2019春）
+C_course-v1:MITx+15_671_1X+2019_T1	u.lab 1x：向未来学习 引领系统创变（2019春）

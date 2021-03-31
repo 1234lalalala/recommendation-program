@@ -1,0 +1,4 @@
+C_course-v1:TsinghuaX+20350033X+sp	工程材料（自主模式）
+C_course-v1:TsinghuaX+0350161X_2015_T2+sp	材料学概论（自主模式）
+C_course-v1:TsinghuaX+00040132X+sp	宝玉石鉴赏（自主模式）
+C_course-v1:TsinghuaX+00040132X+2019_T1	宝玉石鉴赏（2019春）

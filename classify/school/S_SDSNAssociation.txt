@@ -1,0 +1,7 @@
+C_course-v1:SDSNAssociation+ASD+sp	Age of Sustainable Development
+C_course-v1:SDSNAssociation+PB+sp	Planetary Boundaries
+C_course-v1:SDSNAssociation+CSN+sp	Climate Change Science and Negotiations
+C_course-v1:SDSNAssociation+ECD001+sp	The Best Start in Life: Early Childhood Development for Sustainable Development
+C_course-v1:SDSNAssociation+C21001+sp	Cities and the Challenge of Sustainable Development
+C_course-v1:SDSNAssociation+TOW001+sp	Transforming Our World
+C_course-v1:SDSNAssociation+SC001+sp	Sustainable Cities

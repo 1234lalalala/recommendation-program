@@ -1,0 +1,2 @@
+C_course-v1:TsinghuaX+00690092X+sp	逻辑学概论（自主模式）
+C_course-v1:TsinghuaX+00690092X+2019_T1	逻辑学概论（2019春）

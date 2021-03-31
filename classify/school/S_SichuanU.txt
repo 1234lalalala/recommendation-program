@@ -1,0 +1,4 @@
+C_course-v1:SichuanU+304231020+sp	智能时代下的创新创业实践(自主模式)
+C_course-v1:SichuanU+106588020+sp	巴蜀文化（自主模式）
+C_course-v1:SichuanU+302074030+2019_T1	机械原理(2019春）
+C_course-v1:SichuanU+306197030+2019_T1	土力学（2019春）

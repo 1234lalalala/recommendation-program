@@ -1,0 +1,44 @@
+C_course-v1:TsinghuaX+30240184_2X+sp	数据结构(下)(自主模式)
+C_course-v1:BIT+100070018+2019_T1	C语言程序设计（上）(2019春)
+C_course-v1:TsinghuaX+00740043X_2015_T2+sp	C++语言程序设计基础（自主模式）
+C_course-v1:SXPI+40281x+2019_T1	PLC应用技术（2019春）
+C_course-v1:MITx+6_00_1x+sp	计算机科学和Python编程导论（自主模式）
+C_course-v1:JXUST+JXUST2016001+2016_T2	人工智能（自主模式）
+C_course-v1:XJAU+246010007+2018_T2	Python 交互式程序设计导论
+C_course-v1:TsinghuaX+20740084X+2019_T1	基于Linux的C++（2019春）
+C_course-v1:TsinghuaX+00740113_1X+sp	VC++面向对象与可视化程序设计（上）：Windows编程基础 (自主模式)
+C_course-v1:XIYOU+20180208+sp	编译技术
+C_course-v1:GXUST+2017041901X+2017_T1	计算思维导论（自主模式）
+C_course-v1:TsinghuaX+00740043_2x+2019_T1	C++语言程序设计进阶（2019春）
+C_course-v1:TsinghuaX+00740043_1x+2019_T1	C++语言程序设计基础（2019春）
+C_course-v1:TsinghuaX+34100333+2019_T1	软件理论基础（2019春）
+C_course-v1:SCUT+145055+2018_T2	数据结构（Data Structures）（2018秋）
+C_course-v1:NBCC+031J33B00+sp	“做中学”Java程序设计(自主模式)
+C_course-v1:BIT+100070018+2019_T2	C语言程序设计（下）(2019春)
+C_course-v1:TsinghuaX+2018011901X+2019_T1	Petri网：模型、理论与应用（2019春）
+C_course-v1:TsinghuaX+30230931X+2019_T1	电子信息科学与技术导引(1)(2019春) 
+C_course-v1:SCUT+145033+sp	计算机网络（自主模式）
+C_course-v1:EST+20170914+sp	测试系统集成技术(自主模式)
+C_course-v1:NCEPU+20180628001+2018_T2	自动化专业概论
+C_course-v1:CQU+ICE20012+sp	卡通说解数字电子技术（自主模式）
+C_course-v1:XIYOU+20180208+2019_T1	编译技术（2019春）
+C_course-v1:TsinghuaX+00740113_2X+sp	VC++面向对象与可视化程序设计（下）：MFC编程基础 (自主模式)
+C_course-v1:TsinghuaX+70240403+2019_T1	大数据机器学习（2019春）
+C_course-v1:TsinghuaX+00740043_2x_2015_T2+sp	C++语言程序设计进阶 (自主模式)
+C_course-v1:SCUT+145055+sp	数据结构（Data Structures）（自主模式）
+C_course-v1:SPI+40281x+sp	PLC应用技术（自主模式）
+C_course-v1:SCUT+145223+2019_T1	大学计算机基础（2019春）
+C_course-v1:JXUST+JXUST2016001+2019_T1	人工智能（2019春）
+C_course-v1:TsinghuaX+70240183x_1+2019_T1	计算几何（2019春）
+C_course-v1:TsinghuaX+30240233X+2019_T1	程序设计基础（2019春）
+C_course-v1:UC_BerkeleyX+CS_184_1x+sp	计算机图形学导论（自主模式）
+C_course-v1:TsinghuaX+Grasshopper101+2019_T1	Grasshopper参数化设计与建模（2019春）
+C_course-v1:XJTU+COMP200853+sp	微机原理与接口技术（自主模式）
+C_course-v1:TsinghuaX+30240532X+2019_T1	面向对象程序设计（C++）（2019春）
+C_course-v1:YIT+2018122509X+2018_T2	大学计算机基础与应用
+C_course-v1:UST+UST001+sp	网络技术与应用（自主模式）
+C_course-v1:TsinghuaX+00740123X+2019_T1	Java程序设计（2019春）
+C_course-v1:TsinghuaX+30240184+sp	数据结构(上)(自主模式)
+C_course-v1:TsinghuaX+20240103X+2019_T1	汇编语言程序设计（2019春）
+C_course-v1:TsinghuaX+00740123_X+sp	Java程序设计（自主模式）
+C_course-v1:HBPU+20181226006X+2018_T2	高级语言程序设计

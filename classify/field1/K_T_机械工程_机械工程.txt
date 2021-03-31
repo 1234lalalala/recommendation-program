@@ -1,0 +1,7 @@
+C_course-v1:TsinghuaX+40050444X+sp	大气污染控制工程（自主模式）
+C_course-v1:TsinghuaX+30150153X+sp	汽车发动机原理(自主模式)
+C_course-v1:TsinghuaX+70150023X+sp	汽车理论 (自主模式)
+C_course-v1:jlu+20180925+2018_T2	汽车行走的艺术
+C_course-v1:TsinghuaX+40140632X+2019_T1	流体机械基础（2019春）
+C_course-v1:TsinghuaX+40050444X+2019_T1	大气污染控制工程（2019春）
+C_course-v1:TsinghuaX+40150442+2019_T1	汽车构造（2）（2019春）

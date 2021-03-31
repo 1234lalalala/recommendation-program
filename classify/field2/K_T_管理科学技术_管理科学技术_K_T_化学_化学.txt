@@ -1,0 +1,7 @@
+C_course-v1:KMUSTX+1803168+2019_T1	基因工程（2019春）
+C_course-v1:RiceX+AdvBIO_2x+sp	AP*备考——生物学，第二部分：遗传学（自主模式）
+C_course-v1:KMUSTX+1803168+2018_T2	基因工程
+C_course-v1:AdelaideX+Wine101x+sp	葡萄酒的世界：从葡萄到美酒（自主模式）
+C_course-v1:McGillX+Chem181x+sp	食物与健康（自主模式）
+C_course-v1:TsinghuaX+10450012X+2019_T1	现代生物学导论（2019春）
+C_course-v1:CSU+20180910X+2019_T1	医学实验技术与方法新进展（2019春）
